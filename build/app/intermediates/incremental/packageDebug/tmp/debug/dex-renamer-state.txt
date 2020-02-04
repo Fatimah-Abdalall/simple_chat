@@ -1,0 +1,4 @@
+#Tue Feb 04 12:46:04 AST 2020
+base.0=D\:\\Google_Drive\\Projects\\Flutter\\simple_chat\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

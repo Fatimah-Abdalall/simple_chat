@@ -1,0 +1,11 @@
+1- Text controller
+2- List of *ChatMessage* objects to store messages
+3- Function to handle submitted text
+   // clear TextController
+   // add the new message to _messages list (2)
+4- BuildTextComposer functuin:
+   // build TextField and send Icon
+5- ChatMessage function:
+   // build Avatar, Name, Message
+6- App body contains a column of ListView to show messages as scrollable list
+   and BuildTextComposer object
